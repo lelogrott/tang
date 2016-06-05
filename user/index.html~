@@ -145,7 +145,7 @@
 							<section id="four">
 								<div class="container">
 									<h3>Entre em contato!</h3>
-									<p>Nossa comunicação é essencial para o aperfeiçoamento do sistema TANG. Aproveite para fazer comentários positivos ou negativos sobre o sistema, relatar algum erro / mal funcionamento ou fazer elogios.</p><p> Atenciosamente, TANG.</p>
+									<p>Nossa comunicação é essencial para o aperfeiçoamento do sistema TANG. Aproveite para fazer comentários positivos ou negativos sobre o sistema, relatar algum erro / mal funcionamento ou fazer elogios.< /br> Atenciosamente, TANG.</p>
 									<form method="post" action="#">
 										<div class="row uniform">
 											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Nome" /></div>

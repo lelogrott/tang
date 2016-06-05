@@ -1607,6 +1607,7 @@
 		font-size: 2em;
 		line-height: 1.5em;
 	}
+	h1 a img{margin-top:2%;}
 
 	h3 {
 		font-size: 1.75em;
