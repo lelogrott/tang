@@ -90,12 +90,12 @@
 					<span class="image fit main"><img src="images/cct.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum amet non magna accumsan</h2>
-							<p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+							<h2>Lanche de graça no RU!!!</h2>
+							<p>Entenda como você pode ganhar um lanche por não fazer algo.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p>Para ganhar um lanche/almoço grátis no RU basta não ir de carro para a UDESC, simples assim.</p><p> O sistema calcula a frequência com que o participante utilizou o carro para comparecer a faculdade, quanto menor a frequência, mais chances de ganhar o prêmio.</p>
 						<ul class="actions">
-							<li><a href="#" class="button">Learn More</a></li>
+							<li><a href="#three" class="button goto-next scrolly">Próximo</a></li>
 						</ul>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -106,12 +106,12 @@
 					<span class="image fit main bottom"><img src="images/cct.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum felis blandit praesent sed augue</h2>
-							<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+							<h2>RFID para a revolução!</h2>
+							<p>Alunos receberão uma <i> tag </i> RFID no momento do registro do veículo</p>
 						</header>
 						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
 						<ul class="actions">
-							<li><a href="#" class="button">Learn More</a></li>
+							<li><a href="#footer" class="button goto-next scrolly">Próximo</a></li>
 						</ul>
 					</div>
 					<a href="#footer" class="goto-next scrolly">Next</a>
